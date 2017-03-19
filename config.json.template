@@ -1,0 +1,19 @@
+{
+  "API_ID": 12345,
+  "API_HASH": "iugiugnsagnfmcaiuew21738m121",
+  "PHONE_NUMBER": "+79991234567",
+  "SESSION": "filename",
+  "ARENA_LOG": "arena.txt",
+  "STRATEGY": "attack",
+  "SELF_ID": 123435678,
+  "DONATE_TO_CASTLE": false,
+  "DONATE_TO_CASTLE_THRESHOLD": 80,
+  "DRINK": false,
+  "DRINK_THRESHOLD": 30,
+  "PRODUCTION": false,
+  "SPECIALIZATIONS": [],
+  "TAVERN": false,
+  "TAVERN_ID": 12345678,
+  "NICKNAME": "nickname",
+  "TAMADA": false
+}

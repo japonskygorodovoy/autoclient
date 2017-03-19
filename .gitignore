@@ -1,0 +1,5 @@
+*.session
+*.swp
+config.json
+__pycache__
+arena.txt
